@@ -2,7 +2,7 @@
   "name": "webpage",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/MergimRruka/about-mergim",
+  "homepage": "https://mergimrruka.github.io/about-mergim/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
