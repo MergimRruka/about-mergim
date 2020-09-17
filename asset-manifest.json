@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/about-mergim/static/css/main.5f361e03.chunk.css",
-    "main.js": "/about-mergim/static/js/main.8aba5b5d.chunk.js",
-    "main.js.map": "/about-mergim/static/js/main.8aba5b5d.chunk.js.map",
+    "main.js": "/about-mergim/static/js/main.28bcd296.chunk.js",
+    "main.js.map": "/about-mergim/static/js/main.28bcd296.chunk.js.map",
     "runtime-main.js": "/about-mergim/static/js/runtime-main.ef039ccd.js",
     "runtime-main.js.map": "/about-mergim/static/js/runtime-main.ef039ccd.js.map",
     "static/js/2.4eef6bfa.chunk.js": "/about-mergim/static/js/2.4eef6bfa.chunk.js",
     "static/js/2.4eef6bfa.chunk.js.map": "/about-mergim/static/js/2.4eef6bfa.chunk.js.map",
     "index.html": "/about-mergim/index.html",
-    "precache-manifest.329fa91a5c2594b5a10ccb13298e8eec.js": "/about-mergim/precache-manifest.329fa91a5c2594b5a10ccb13298e8eec.js",
+    "precache-manifest.196af8300b8615f5b87e844e46ec8743.js": "/about-mergim/precache-manifest.196af8300b8615f5b87e844e46ec8743.js",
     "service-worker.js": "/about-mergim/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/about-mergim/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.4eef6bfa.chunk.js.LICENSE.txt": "/about-mergim/static/js/2.4eef6bfa.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.ef039ccd.js",
     "static/js/2.4eef6bfa.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.8aba5b5d.chunk.js"
+    "static/js/main.28bcd296.chunk.js"
   ]
 }

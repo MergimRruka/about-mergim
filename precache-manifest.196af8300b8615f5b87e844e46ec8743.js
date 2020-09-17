@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8dfb7c729d570f1df38bdab4cb04e952",
+    "revision": "bc3a62d51e249dfad01d3fdd268d9294",
     "url": "/about-mergim/index.html"
   },
   {
-    "revision": "2f3e85b0987549ec251f",
+    "revision": "650105718c6ef2fb39cc",
     "url": "/about-mergim/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/about-mergim/static/js/2.4eef6bfa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2f3e85b0987549ec251f",
-    "url": "/about-mergim/static/js/main.8aba5b5d.chunk.js"
+    "revision": "650105718c6ef2fb39cc",
+    "url": "/about-mergim/static/js/main.28bcd296.chunk.js"
   },
   {
     "revision": "1a78a2cc990355f1f4ae",
