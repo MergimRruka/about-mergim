@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MergimRruka/about-mergim/static/css/main.5f361e03.chunk.css",
+    "main.js": "/MergimRruka/about-mergim/static/js/main.33a3e14b.chunk.js",
+    "main.js.map": "/MergimRruka/about-mergim/static/js/main.33a3e14b.chunk.js.map",
+    "runtime-main.js": "/MergimRruka/about-mergim/static/js/runtime-main.7fa66754.js",
+    "runtime-main.js.map": "/MergimRruka/about-mergim/static/js/runtime-main.7fa66754.js.map",
+    "static/js/2.4eef6bfa.chunk.js": "/MergimRruka/about-mergim/static/js/2.4eef6bfa.chunk.js",
+    "static/js/2.4eef6bfa.chunk.js.map": "/MergimRruka/about-mergim/static/js/2.4eef6bfa.chunk.js.map",
+    "index.html": "/MergimRruka/about-mergim/index.html",
+    "precache-manifest.32b76b135590690edcf626745ea892da.js": "/MergimRruka/about-mergim/precache-manifest.32b76b135590690edcf626745ea892da.js",
+    "service-worker.js": "/MergimRruka/about-mergim/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/MergimRruka/about-mergim/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.4eef6bfa.chunk.js.LICENSE.txt": "/MergimRruka/about-mergim/static/js/2.4eef6bfa.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/MergimRruka/about-mergim/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fa66754.js",
+    "static/js/2.4eef6bfa.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.33a3e14b.chunk.js"
+  ]
+}
