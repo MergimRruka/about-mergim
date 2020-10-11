@@ -1,0 +1,112 @@
+.aboutme {
+    margin-top: 30vh;
+    text-align: center;
+}
+
+.mainDiv {
+    min-height: 100vh;
+}
+
+.Hi {
+    padding-top: 15vh;
+    text-align: center;
+    font-size: 80px;
+    margin-bottom: 0;
+}
+
+.Name {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 0;
+}
+
+
+.Me {
+    max-height: 25vh;
+    text-align: center;
+    padding: 30px;
+}
+
+.MeDiv {
+    margin-top: 50px;
+    text-align: center;
+    z-index: 10;
+}
+
+.scrollText {
+    margin-top: 15vh;
+    text-align: center;
+}
+
+
+
+@media screen and (max-width: 600px) {
+
+    .Hi {
+        padding-top: 5vh;
+        text-align: center;
+        font-size: 30px;
+        margin-bottom: 0;
+    }
+
+    .Name {
+        text-align: center;
+        font-size: 20px;
+        margin-top: 0;
+    }
+
+    .scrollText {
+        margin-top: 4vh;
+        text-align: center;
+    }
+
+    .Me {
+        max-height: 25vh;
+        text-align: center;
+        padding: 20px;
+    }
+}
+
+@media screen and (max-width: 720px) {
+
+    .Hi {
+        padding-top: 10vh;
+        text-align: center;
+        font-size: 45px;
+        margin-bottom: 0;
+    }
+
+    .Name {
+        text-align: center;
+        font-size: 20px;
+        margin-top: 0;
+    }
+
+    .scrollText {
+        margin-top: 4vh;
+        text-align: center;
+    }
+
+    .Me {
+        max-height: 25vh;
+        text-align: center;
+        padding: 20px;
+    }
+}
+
+@media screen and (min-width: 721px) and (max-width: 767px) {
+    .Hi {
+        padding-top: 8vh;
+        text-align: center;
+        font-size: 40px;
+        margin-bottom: 0;
+    }
+    
+
+    .scrollText {
+        margin-top: 10vh;
+        text-align: center;
+    }
+
+}
+

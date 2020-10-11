@@ -1,0 +1,41 @@
+.themes {
+  max-width: 100%;
+  padding: 10px;
+}
+
+.padding{
+  padding: 30px;
+}
+
+.topLine{
+  padding-top: 70px;
+}
+
+.homesec{
+ max-width: 100%;
+}
+
+.mainContainer {
+  margin-top: 100px;
+
+}
+
+.p-under{
+  margin-top: 20px;
+  
+}
+
+.underline{
+  padding-top: 15px;
+  font-size: 1.4em;
+  border-top: 0;
+  line-height: 1.75em;
+  border-bottom: 3px solid;
+  border-image: linear-gradient(325deg, #9eabe4 0%, #77eed8 74%);
+  border-image-slice: 1;
+  border-width: 3px;
+  margin: 0;
+  counter-increment: section;
+  position: relative;
+  color: black;
+}
