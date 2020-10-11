@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/about-mergim/static/css/main.c97b06f6.chunk.css",
-    "main.js": "/about-mergim/static/js/main.b0e967f7.chunk.js",
-    "main.js.map": "/about-mergim/static/js/main.b0e967f7.chunk.js.map",
+    "main.css": "/about-mergim/static/css/main.e830fbf5.chunk.css",
+    "main.js": "/about-mergim/static/js/main.14327ef8.chunk.js",
+    "main.js.map": "/about-mergim/static/js/main.14327ef8.chunk.js.map",
     "runtime-main.js": "/about-mergim/static/js/runtime-main.ef039ccd.js",
     "runtime-main.js.map": "/about-mergim/static/js/runtime-main.ef039ccd.js.map",
     "static/css/2.4707e12a.chunk.css": "/about-mergim/static/css/2.4707e12a.chunk.css",
-    "static/js/2.7626277f.chunk.js": "/about-mergim/static/js/2.7626277f.chunk.js",
-    "static/js/2.7626277f.chunk.js.map": "/about-mergim/static/js/2.7626277f.chunk.js.map",
+    "static/js/2.acab7ab4.chunk.js": "/about-mergim/static/js/2.acab7ab4.chunk.js",
+    "static/js/2.acab7ab4.chunk.js.map": "/about-mergim/static/js/2.acab7ab4.chunk.js.map",
     "index.html": "/about-mergim/index.html",
-    "precache-manifest.cd96d030729b37ed3f4ebf556b314149.js": "/about-mergim/precache-manifest.cd96d030729b37ed3f4ebf556b314149.js",
+    "precache-manifest.9d4ba36a737d904aa0c8200df0072342.js": "/about-mergim/precache-manifest.9d4ba36a737d904aa0c8200df0072342.js",
     "service-worker.js": "/about-mergim/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/about-mergim/static/css/2.4707e12a.chunk.css.map",
-    "static/css/main.c97b06f6.chunk.css.map": "/about-mergim/static/css/main.c97b06f6.chunk.css.map",
-    "static/js/2.7626277f.chunk.js.LICENSE.txt": "/about-mergim/static/js/2.7626277f.chunk.js.LICENSE.txt",
+    "static/css/main.e830fbf5.chunk.css.map": "/about-mergim/static/css/main.e830fbf5.chunk.css.map",
+    "static/js/2.acab7ab4.chunk.js.LICENSE.txt": "/about-mergim/static/js/2.acab7ab4.chunk.js.LICENSE.txt",
     "static/media/calc2.png": "/about-mergim/static/media/calc2.0d8ea08c.png",
     "static/media/dotwhere.png": "/about-mergim/static/media/dotwhere.26db4a4a.png",
     "static/media/email.png": "/about-mergim/static/media/email.755f7bfb.png",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.ef039ccd.js",
     "static/css/2.4707e12a.chunk.css",
-    "static/js/2.7626277f.chunk.js",
-    "static/css/main.c97b06f6.chunk.css",
-    "static/js/main.b0e967f7.chunk.js"
+    "static/js/2.acab7ab4.chunk.js",
+    "static/css/main.e830fbf5.chunk.css",
+    "static/js/main.14327ef8.chunk.js"
   ]
 }

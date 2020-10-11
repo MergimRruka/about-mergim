@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b0630d63afbaedb5eec253035705fdd",
+    "revision": "d1da673a23bf96c90ab0be4c2f75eec0",
     "url": "/about-mergim/index.html"
   },
   {
-    "revision": "938f8f18aa7a8e2b8223",
+    "revision": "8050d27bda41ef358eae",
     "url": "/about-mergim/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "98af956b1a29d259f659",
-    "url": "/about-mergim/static/css/main.c97b06f6.chunk.css"
+    "revision": "7171e4406743863dce70",
+    "url": "/about-mergim/static/css/main.e830fbf5.chunk.css"
   },
   {
-    "revision": "938f8f18aa7a8e2b8223",
-    "url": "/about-mergim/static/js/2.7626277f.chunk.js"
+    "revision": "8050d27bda41ef358eae",
+    "url": "/about-mergim/static/js/2.acab7ab4.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/about-mergim/static/js/2.7626277f.chunk.js.LICENSE.txt"
+    "url": "/about-mergim/static/js/2.acab7ab4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "98af956b1a29d259f659",
-    "url": "/about-mergim/static/js/main.b0e967f7.chunk.js"
+    "revision": "7171e4406743863dce70",
+    "url": "/about-mergim/static/js/main.14327ef8.chunk.js"
   },
   {
     "revision": "1a78a2cc990355f1f4ae",
