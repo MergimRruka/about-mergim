@@ -1,8 +1,8 @@
 .square {
-    margin-top: 10px;
-    height: 50px;
-    width: 50px;
-    background-color: rgba(0, 0, 0, 0);
+  border: 2px solid #73AD21;
+  padding: 20px; 
+  width: 200px;
+  height: 150px;  
 }
 
 .circle {
@@ -36,7 +36,8 @@
 }
 
 .border-gradient-purple {
-    border-image-source: linear-gradient(315deg, #21d190 0%, #d65bca 74%);
+   background-color: rgba(255, 255, 255, 0);
+   border-image: linear-gradient(315deg, #21d190 0%, #d65bca 74%) 1;
 }
 
 .border-gradient-blue {
