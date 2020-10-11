@@ -4,6 +4,9 @@ import Start from './components/Start';
 import Education from './components/Education';
 import Showcase from './components/Showcase';
 import ContactMe from './components/ContactMe';
+import Container from 'react-bootstrap/Container';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
 
 function App() {
 
@@ -25,12 +28,15 @@ function App() {
 
 
   return (
-    <div >
+    <div className="test" >
       <div id="navbar" className="notMarked">
         <a onClick={() => scrollTo("start")} className="navButton">Start</a>
-        <a onClick={() => scrollTo("education")} className="navButton"> Education & Experiences</a>
-        <a onClick={() => scrollTo("Showcase")} className="navButton" > Projects</a>
-        <a onClick={() => scrollTo("contactMe")} className="navButton"> Contact</a>
+
+        <a onClick={() => scrollTo("education")} className="navButton">Background</a>
+
+        <a onClick={() => scrollTo("Showcase")} className="navButton" >Projects</a>
+
+        <a onClick={() => scrollTo("contactMe")} className="navButton">Contact</a>
       </div>
       <div className="divs notMarked bg1" id="start">
         <Start></Start>
