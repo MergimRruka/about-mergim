@@ -28,7 +28,7 @@ function App() {
 
 
   return (
-    <div className="test" >
+    <div className="appDiv" >
       <div id="navbar" className="notMarked">
         <a onClick={() => scrollTo("start")} className="navButton">Start</a>
 
