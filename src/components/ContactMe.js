@@ -57,7 +57,7 @@ export default function ContactMe(props) {
                 </Col>
             </Row>
             <Row>
-                <Col md={{ span: 2, offset: 4 }} sm="4" xs="3" data-aos='fade-left' data-aos-delay="1400" >
+                <Col md={{ span: 2, offset: 4 }} sm="4" xs="3" >
                     <Shape size={36} color="purple" type="square" rotate="20" ></Shape>
                 </Col>
                 <Col md="6" sm="1" xs="1" />
@@ -73,7 +73,7 @@ export default function ContactMe(props) {
                 <Col md="12" sm="12" xs="12" >
                     <Shape size={60} color="none" type="circle" rotate="86" ></Shape>
                 </Col>
-                <Col md={{ span: 3, offset: 9 }} sm={{ span: 3, offset: 9 }} xs={{ span: 3, offset: 9 }} data-aos='fade-right' data-aos-delay="1100">
+                <Col md={{ span: 3, offset: 9 }} sm={{ span: 3, offset: 9 }} xs={{ span: 3, offset: 9 }}>
                     <Shape size={20} color="blue" type="square" rotate="86" ></Shape>
                 </Col>
 

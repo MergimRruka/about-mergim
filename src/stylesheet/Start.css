@@ -40,7 +40,7 @@
 
 
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 576px) {
 
     .Hi {
         padding-top: 5vh;
@@ -67,7 +67,7 @@
     }
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 768px) {
 
     .Hi {
         padding-top: 10vh;
@@ -94,11 +94,11 @@
     }
 }
 
-@media screen and (min-width: 721px) and (max-width: 767px) {
+@media screen and (min-width: 769px) and (max-width: 992px) {
     .Hi {
         padding-top: 8vh;
         text-align: center;
-        font-size: 40px;
+        font-size: 50px;
         margin-bottom: 0;
     }
     
