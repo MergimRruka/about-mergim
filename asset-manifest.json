@@ -1,23 +1,31 @@
 {
   "files": {
-    "main.css": "/about-mergim/static/css/main.5f361e03.chunk.css",
-    "main.js": "/about-mergim/static/js/main.28bcd296.chunk.js",
-    "main.js.map": "/about-mergim/static/js/main.28bcd296.chunk.js.map",
+    "main.css": "/about-mergim/static/css/main.513314b9.chunk.css",
+    "main.js": "/about-mergim/static/js/main.b0e967f7.chunk.js",
+    "main.js.map": "/about-mergim/static/js/main.b0e967f7.chunk.js.map",
     "runtime-main.js": "/about-mergim/static/js/runtime-main.ef039ccd.js",
     "runtime-main.js.map": "/about-mergim/static/js/runtime-main.ef039ccd.js.map",
-    "static/js/2.4eef6bfa.chunk.js": "/about-mergim/static/js/2.4eef6bfa.chunk.js",
-    "static/js/2.4eef6bfa.chunk.js.map": "/about-mergim/static/js/2.4eef6bfa.chunk.js.map",
+    "static/css/2.4707e12a.chunk.css": "/about-mergim/static/css/2.4707e12a.chunk.css",
+    "static/js/2.7626277f.chunk.js": "/about-mergim/static/js/2.7626277f.chunk.js",
+    "static/js/2.7626277f.chunk.js.map": "/about-mergim/static/js/2.7626277f.chunk.js.map",
     "index.html": "/about-mergim/index.html",
-    "precache-manifest.196af8300b8615f5b87e844e46ec8743.js": "/about-mergim/precache-manifest.196af8300b8615f5b87e844e46ec8743.js",
+    "precache-manifest.0320b24ae1bbb81558a692777f30fcfc.js": "/about-mergim/precache-manifest.0320b24ae1bbb81558a692777f30fcfc.js",
     "service-worker.js": "/about-mergim/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/about-mergim/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.4eef6bfa.chunk.js.LICENSE.txt": "/about-mergim/static/js/2.4eef6bfa.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/about-mergim/static/media/logo.5d5d9eef.svg"
+    "static/css/2.4707e12a.chunk.css.map": "/about-mergim/static/css/2.4707e12a.chunk.css.map",
+    "static/css/main.513314b9.chunk.css.map": "/about-mergim/static/css/main.513314b9.chunk.css.map",
+    "static/js/2.7626277f.chunk.js.LICENSE.txt": "/about-mergim/static/js/2.7626277f.chunk.js.LICENSE.txt",
+    "static/media/calc2.png": "/about-mergim/static/media/calc2.0d8ea08c.png",
+    "static/media/dotwhere.png": "/about-mergim/static/media/dotwhere.26db4a4a.png",
+    "static/media/email.png": "/about-mergim/static/media/email.755f7bfb.png",
+    "static/media/homeSecurity.png": "/about-mergim/static/media/homeSecurity.c3acc72a.png",
+    "static/media/me.jpg": "/about-mergim/static/media/me.9d34711b.jpg",
+    "static/media/theme2.png": "/about-mergim/static/media/theme2.e9a1ebe0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ef039ccd.js",
-    "static/js/2.4eef6bfa.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.28bcd296.chunk.js"
+    "static/css/2.4707e12a.chunk.css",
+    "static/js/2.7626277f.chunk.js",
+    "static/css/main.513314b9.chunk.css",
+    "static/js/main.b0e967f7.chunk.js"
   ]
 }
