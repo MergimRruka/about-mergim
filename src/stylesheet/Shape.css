@@ -41,9 +41,7 @@
 }
 
 .border-gradient-blue {
-    border-image-source: linear-gradient(315deg, #9eabe4 0%, #77eed8 74%);
+    background-color: rgba(255, 255, 255, 0);
+    border-image: linear-gradient(315deg, #9eabe4 0%, #77eed8 74%) 1;
 }
 
-.border-gradient-yellow {
-    border-image-source:  linear-gradient(315deg, #f5d020 0%, #f53803 74%);
-}
