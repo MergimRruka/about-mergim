@@ -15,7 +15,6 @@ main {
   font-size: 1em;
   line-height: 1.75em;
   border-top: 3px solid;
-  border-bottom-width:0px;
   border-image: linear-gradient(to right, #21d190 0%, #d65bca 74%);
   border-image-slice: 1;
   border-width: 3px;
@@ -23,8 +22,8 @@ main {
   padding: 30px;
   counter-increment: section;
   position: relative;
-  color: black; 
-  
+  color: black;   
+  border-bottom-width:0px;    
 }
 
 .line::before {
