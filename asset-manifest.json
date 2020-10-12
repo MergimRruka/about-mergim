@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/about-mergim/static/css/main.881804b7.chunk.css",
+    "main.css": "/about-mergim/static/css/main.d38f067f.chunk.css",
     "main.js": "/about-mergim/static/js/main.af797c2b.chunk.js",
     "main.js.map": "/about-mergim/static/js/main.af797c2b.chunk.js.map",
     "runtime-main.js": "/about-mergim/static/js/runtime-main.ef039ccd.js",
@@ -9,10 +9,10 @@
     "static/js/2.acab7ab4.chunk.js": "/about-mergim/static/js/2.acab7ab4.chunk.js",
     "static/js/2.acab7ab4.chunk.js.map": "/about-mergim/static/js/2.acab7ab4.chunk.js.map",
     "index.html": "/about-mergim/index.html",
-    "precache-manifest.28dfc9eb93b48e903de4da68c47c4606.js": "/about-mergim/precache-manifest.28dfc9eb93b48e903de4da68c47c4606.js",
+    "precache-manifest.5f9f61ecf75f0d2a6b4f18399440f642.js": "/about-mergim/precache-manifest.5f9f61ecf75f0d2a6b4f18399440f642.js",
     "service-worker.js": "/about-mergim/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/about-mergim/static/css/2.4707e12a.chunk.css.map",
-    "static/css/main.881804b7.chunk.css.map": "/about-mergim/static/css/main.881804b7.chunk.css.map",
+    "static/css/main.d38f067f.chunk.css.map": "/about-mergim/static/css/main.d38f067f.chunk.css.map",
     "static/js/2.acab7ab4.chunk.js.LICENSE.txt": "/about-mergim/static/js/2.acab7ab4.chunk.js.LICENSE.txt",
     "static/media/calc2.png": "/about-mergim/static/media/calc2.0d8ea08c.png",
     "static/media/dotwhere.png": "/about-mergim/static/media/dotwhere.26db4a4a.png",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.ef039ccd.js",
     "static/css/2.4707e12a.chunk.css",
     "static/js/2.acab7ab4.chunk.js",
-    "static/css/main.881804b7.chunk.css",
+    "static/css/main.d38f067f.chunk.css",
     "static/js/main.af797c2b.chunk.js"
   ]
 }
