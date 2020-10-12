@@ -41,6 +41,7 @@ main {
 
 .line:nth-child(odd) {
   border-right: 3px solid;
+  border-left-width:0px;
   padding-left: 0;
   
   
@@ -53,6 +54,7 @@ main {
 
 .line:nth-child(even) {
   border-left: 3px solid;
+  border-right-width:0px;
   padding-right: 0;
 
 }
@@ -72,8 +74,7 @@ main {
   border-bottom-left-radius:0;
 }
 
-.label{
-  
+.label{  
   font-size: 1.4em;
 }
 

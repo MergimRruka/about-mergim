@@ -11,7 +11,7 @@ import Image from 'react-bootstrap/Image';
 import Shape from './Shape';
 
 
-export default function ContactMe(props) {
+export default function ContactMe() {
 
     AOS.init({
         duration: 3000
