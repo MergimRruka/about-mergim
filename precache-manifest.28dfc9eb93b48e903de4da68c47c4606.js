@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c32ac71e5d8fd6eb842918e6fe04abf2",
+    "revision": "5d1d11e5e42242da89851df0f301319e",
     "url": "/about-mergim/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/about-mergim/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "930fb4394ce26cc90dba",
-    "url": "/about-mergim/static/css/main.b47e67a2.chunk.css"
+    "revision": "f9f83957288ad6f4b0bb",
+    "url": "/about-mergim/static/css/main.881804b7.chunk.css"
   },
   {
     "revision": "8050d27bda41ef358eae",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/about-mergim/static/js/2.acab7ab4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "930fb4394ce26cc90dba",
+    "revision": "f9f83957288ad6f4b0bb",
     "url": "/about-mergim/static/js/main.af797c2b.chunk.js"
   },
   {
