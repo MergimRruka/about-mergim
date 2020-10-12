@@ -31,6 +31,9 @@
   border-top: 0;
   line-height: 1.75em;
   border-bottom: 3px solid;
+  border-top-width:0px;
+  border-right-width:0px;
+  border-bottom-width:0px;
   border-image: linear-gradient(325deg, #9eabe4 0%, #77eed8 74%);
   border-image-slice: 1;
   border-width: 3px;
