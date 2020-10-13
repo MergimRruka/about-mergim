@@ -38,16 +38,16 @@ function App() {
 
         <a onClick={() => scrollTo("contactMe")} className="navButton">Contact</a>
       </div>
-      <div className="divs notMarked bg1" id="start">
+      <div className="divs notMarked lightToDarkBg" id="start">
         <Start></Start>
       </div>
-      <div className="divs notMarked bg2 " id="education">
+      <div className="divs notMarked darkToLightBg" id="education">
         <Education></Education>
       </div>
-      <div className="divs notMarked bg1 " id="Showcase" >
+      <div className="divs notMarked lightToDarkBg" id="Showcase" >
         <Showcase></Showcase>
       </div>
-      <div className="divs notMarked bg2 " id="contactMe" >
+      <div className="divs notMarked darkToLightBg" id="contactMe" >
         <ContactMe></ContactMe>
       </div>
     </div>

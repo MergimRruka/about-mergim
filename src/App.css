@@ -9,11 +9,11 @@
 }
 
 
-.bg1{background: rgb(229,229,229);
+.lightToDarkBg{background: rgb(229,229,229);
   background: linear-gradient(0deg, rgba(229,229,229,1) 0%, rgba(255,255,255,1) 100%);
 }
 
-.bg2{background: rgb(255,255,255);
+.darkToLightBg{background: rgb(255,255,255);
   background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(229,229,229,1) 100%);
 }
 
@@ -47,7 +47,7 @@
 }
 
 .navButton:hover{
-  background-color: rgba(245,245,245,1);
+  background-color: rgba(235,235,235,1);
 }
 
 .navButton:visited{
