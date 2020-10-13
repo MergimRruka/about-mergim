@@ -50,6 +50,10 @@
   background-color: rgba(245,245,245,1);
 }
 
+.navButton:visited{
+  background-color: rgba(255,255,255,0.5);
+}
+
 .notMarked{
   -webkit-touch-callout: none;
   -webkit-user-select: none; 
