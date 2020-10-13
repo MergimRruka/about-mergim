@@ -3,6 +3,7 @@ import '../stylesheet/Education.css'
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import Container from 'react-bootstrap/Container';
+import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
 
 export default function Education() {
@@ -13,7 +14,7 @@ export default function Education() {
 
     return (
         <Container>
-            <Row data-aos='fade-up'>
+            <Row data-aos='fade-up' className="padding" >
                 <main>
                     <h2 >Education</h2>
                     <div className="line">2013 - 2016 <h4>Växjö Fria Gymnasium</h4>
@@ -35,6 +36,9 @@ export default function Education() {
                 Trainee at Tetra Pak’s Student Talent Programme.
                 Working as front-end developer with focus on React, typespcript/Javascript, HTML and CSS.</div>
                 </main>
+            </Row>
+            <Row>
+                <Col sm="12" md="12" className="topLine d-md-block d-sm-block d-lg-none" />
             </Row>
         </Container>
     )

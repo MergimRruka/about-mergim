@@ -2,7 +2,9 @@
     height: 100vh;
 }
 
-
+.padding{
+  padding: 30px;
+}
 
 main {
   min-width: 95%;

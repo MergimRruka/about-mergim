@@ -20,7 +20,6 @@ export default function Showcase() {
     return (
         <Container data-aos='fade-right'>
             <Row className="padding">
-                <Col sm="12" md="12" className="topLine d-md-block d-sm-block d-lg-none"/>
                 <Col  sm="12" md="12" lg={{ span: 4,order: 2 }} data-aos='fade-right' >
                     <h2 className="underline">Galaxy Themes @Samsung</h2>
                     <p className="p-under">Creating themes, wallpapers, icons and always-on-displays for Samsung's theme store. Eleven themes available, downloaded more than 300 000 times globally.
