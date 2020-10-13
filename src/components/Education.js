@@ -12,8 +12,8 @@ export default function Education() {
     })
 
     return (
-        <Container data-aos='fade-up'>
-            <Row>
+        <Container>
+            <Row data-aos='fade-up'>
                 <main>
                     <h2 >Education</h2>
                     <div className="line">2013 - 2016 <h4>Växjö Fria Gymnasium</h4>
@@ -36,7 +36,6 @@ export default function Education() {
                 Working as front-end developer with focus on React, typespcript/Javascript, HTML and CSS.</div>
                 </main>
             </Row>
-
         </Container>
     )
 }

@@ -18,8 +18,8 @@ export default function ContactMe() {
     })
 
     return (
-        <Container data-aos='fade-up' data-aos-easing="ease-in-out" className="mainDiv">
-            <Row>
+        <Container className="mainDiv">
+            <Row className="padding">
                 <Col md={{ span: 1, offset: 3 }} sm={{ span: 1, offset: 3 }} xs={{ span: 9, offset: 3 }} data-aos='fade-right' data-aos-delay="1100">
                     <Shape size={35} color="blue" type="square" rotate="75" ></Shape>
                 </Col>
@@ -36,7 +36,7 @@ export default function ContactMe() {
                 </Col>
             </Row>
 
-            <Row>
+            <Row data-aos='fade-up' >
                 <Col md={{ span: 12 }} sm="12" className="inTouchText topMargin">
                     <h4>
                         Do you want to get in touch with me?
@@ -48,7 +48,7 @@ export default function ContactMe() {
                 </h5>
                 </Col>
             </Row>
-            <Row>
+            <Row data-aos='fade-up' >
                 <Col md={{ span: 1, offset: 5 }} sm={{ span: 2, offset: 4 }} xs="6" className="inTouchText" >
                     <a href="mailto:mergimrruka@gmail.com"><Image className="icons" src={email} /></a>
                 </Col>
@@ -57,7 +57,7 @@ export default function ContactMe() {
                 </Col>
             </Row>
             <Row>
-                <Col md={{ span: 2, offset: 4 }} sm="4" xs="3" >
+                <Col md={{ span: 2, offset: 4 }} sm="4" xs="3" data-aos='fade-left' data-aos-delay="1000" >
                     <Shape size={36} color="purple" type="square" rotate="20" ></Shape>
                 </Col>
                 <Col md="6" sm="1" xs="1" />
@@ -73,7 +73,7 @@ export default function ContactMe() {
                 <Col md="12" sm="12" xs="12" >
                     <Shape size={60} color="none" type="circle" rotate="86" ></Shape>
                 </Col>
-                <Col md={{ span: 3, offset: 9 }} sm={{ span: 3, offset: 9 }} xs={{ span: 3, offset: 9 }}>
+                <Col md={{ span: 3, offset: 9 }} sm={{ span: 3, offset: 9 }} xs={{ span: 3, offset: 9 }} data-aos='fade-left'>
                     <Shape size={20} color="blue" type="square" rotate="86" ></Shape>
                 </Col>
 
