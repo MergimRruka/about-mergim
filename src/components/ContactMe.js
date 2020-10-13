@@ -37,15 +37,15 @@ export default function ContactMe() {
             </Row>
 
             <Row data-aos='fade-up' >
-                <Col md={{ span: 12 }} sm="12" className="inTouchText topMargin">
-                    <h4>
+                <Col md="12" sm="12" className="inTouchText fontsizeQue">
+                    
                         Do you want to get in touch with me?
-                    </h4>
+                    
                 </Col>
-                <Col md={{ span: 12 }} sm="12" className="inTouchText">
-                    <h5>
+                <Col md="12" sm="12" className="inTouchText fontsizeUnd">
+                 
                         Feel free to reach out through email or LinkedIn:
-                </h5>
+                    
                 </Col>
             </Row>
             <Row data-aos='fade-up' >

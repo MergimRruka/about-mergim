@@ -8,10 +8,40 @@
     margin: 10px;
 }
 
-.topMargin{
-    margin-top: 60px;
+.fontsizeQue{
+    font-size: 1.4em;
 }
+
+.fontsizeUnd{
+    font-size: 1.1em;
+}
+
+
+
 
 .padding{
     padding: 30px;
-  }
+}
+
+@media screen and (max-width: 576px) {
+
+    .inTouchText{
+        text-align: center;
+        padding-left: 40px;        
+        padding-right: 40px;
+    }
+
+    .fontsizeQue{
+        font-size: 1.4em;
+    }
+
+    .fontsizeUnd{
+        font-size: 0.9em;
+    }
+
+    .icons{
+        width: 35px;
+        margin: 10px;
+    }
+
+}
