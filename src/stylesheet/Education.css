@@ -2,9 +2,6 @@
     height: 100vh;
 }
 
-.padding{
-  padding: 30px;
-}
 
 main {
   min-width: 95%;
@@ -79,6 +76,10 @@ main {
 
 .label{  
   font-size: 1.4em;
+}
+
+.padding{
+  padding-top: 30px;
 }
 
 
