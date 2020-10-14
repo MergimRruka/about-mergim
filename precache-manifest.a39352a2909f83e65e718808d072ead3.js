@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "98467a300e73293afb9f9220f927b4fa",
+    "revision": "6a6ff01a2d79c874d79db9310a101cc6",
     "url": "/about-mergim/index.html"
   },
   {
