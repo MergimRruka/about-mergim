@@ -21,7 +21,7 @@ function App() {
     if (prevScrollpos > currentScrollPos) {
       document.getElementById("navbar").style.top = "0";
     } else {
-      document.getElementById("navbar").style.top = "-50px";
+      document.getElementById("navbar").style.top = "-70px";
     }
     prevScrollpos = currentScrollPos;
   }
@@ -29,7 +29,7 @@ function App() {
 
   return (
     <div className="appDiv" >
-      <div id="navbar" className="notMarked">
+      <div id="navbar" className="notMarked navbarStyling">
         <a onClick={() => scrollTo("start")} className="navButton">Start</a>
 
         <a onClick={() => scrollTo("education")} className="navButton">Background</a>
