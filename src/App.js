@@ -4,9 +4,6 @@ import Start from './components/Start';
 import Education from './components/Education';
 import Showcase from './components/Showcase';
 import ContactMe from './components/ContactMe';
-import Container from 'react-bootstrap/Container';
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
 
 function App() {
 
