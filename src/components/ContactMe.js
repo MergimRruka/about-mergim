@@ -62,7 +62,7 @@ export default function ContactMe() {
                 </Col>
                 <Col md="6" sm="1" xs="1" />
                 <Col md={{ span: 1, offset: 7 }} sm={{ span: 5, offset: 7 }} xs="3" data-aos='fade-right' data-aos-delay="1300">
-                    <Shape size={50} color="none" type="circle" ></Shape>
+                    <Shape size={50} type="emptyCircle" ></Shape>
                 </Col>
                 <Col md={{ span: 1, offset: 7 }} sm={{ span: 5, offset: 7 }} xs="3" data-aos='fade-right' data-aos-delay="1100">
                     <Shape size={100} color="purple" type="circle" rotate="210" ></Shape>
@@ -71,7 +71,7 @@ export default function ContactMe() {
             </Row>
             <Row>
                 <Col md="12" sm="12" xs="12" >
-                    <Shape size={60} color="none" type="circle" rotate="86" ></Shape>
+                    <Shape size={60}  type="emptyCircle" rotate="86" ></Shape>
                 </Col>
                 <Col md={{ span: 3, offset: 9 }} sm={{ span: 3, offset: 9 }} xs={{ span: 3, offset: 9 }} data-aos='fade-left'>
                     <Shape size={20} color="blue" type="square" rotate="86" ></Shape>

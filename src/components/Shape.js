@@ -10,6 +10,10 @@ export default function Shape(props) {
         return (
             <div className={props.type + " " + props.color} style={{height: props.size,  width: props.size, transform: "rotate(" + props.rotate+"deg)"}}/>
          )
+    }else if(props.type === "emptyCircle"){
+        return (
+            <div className={props.type} style={{height: props.size,  width: props.size}}/>
+         )
     }
 
     return (
