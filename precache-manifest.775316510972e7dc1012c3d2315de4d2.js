@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5e1941d5b1cb83ea08c0611ad4dcc5f3",
+    "revision": "a73b483e4890f403f84ed7b98486fee5",
     "url": "/about-mergim/index.html"
   },
   {
-    "revision": "938f8f18aa7a8e2b8223",
+    "revision": "b398b5ab096c2922a59c",
     "url": "/about-mergim/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "2a10ab4c10e37ea618aa",
-    "url": "/about-mergim/static/css/main.72b2ef26.chunk.css"
+    "revision": "bf7fd8a520ebfbac1cdf",
+    "url": "/about-mergim/static/css/main.a660d98d.chunk.css"
   },
   {
-    "revision": "938f8f18aa7a8e2b8223",
-    "url": "/about-mergim/static/js/2.7626277f.chunk.js"
+    "revision": "b398b5ab096c2922a59c",
+    "url": "/about-mergim/static/js/2.ec63787d.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/about-mergim/static/js/2.7626277f.chunk.js.LICENSE.txt"
+    "url": "/about-mergim/static/js/2.ec63787d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2a10ab4c10e37ea618aa",
-    "url": "/about-mergim/static/js/main.299ee86e.chunk.js"
+    "revision": "bf7fd8a520ebfbac1cdf",
+    "url": "/about-mergim/static/js/main.20e52748.chunk.js"
   },
   {
     "revision": "1a78a2cc990355f1f4ae",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9d34711b476d48989f2095327160d21f",
     "url": "/about-mergim/static/media/me.9d34711b.jpg"
+  },
+  {
+    "revision": "6d61e2926e271d9ccafe8d2fd532281d",
+    "url": "/about-mergim/static/media/position.6d61e292.svg"
   },
   {
     "revision": "e9a1ebe067e0d71ac706a176e55fd3d6",
