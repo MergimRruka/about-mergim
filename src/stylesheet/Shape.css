@@ -17,7 +17,7 @@
     border: 1px solid rgba(255,255,255,0.5) ;
   }
 
-  .circle::before{
+  .circlee::before{
     content: '';
     position: absolute;
     backdrop-filter: blur(5px) saturate(1.5);
