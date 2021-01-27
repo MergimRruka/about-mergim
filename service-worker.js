@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/about-mergim/precache-manifest.775316510972e7dc1012c3d2315de4d2.js"
+  "/about-mergim/precache-manifest.b86f0ea8a5660086cb4a2386f1c96988.js"
 );
 
 self.addEventListener('message', (event) => {
