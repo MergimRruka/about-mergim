@@ -21,7 +21,7 @@
 }
 
 .p-under{
-  margin-top: 20px;
+  margin-top: 10px;
   
 }
 
@@ -41,4 +41,15 @@
   border-top-width:0px;
   border-right-width:0px;
   border-left-width:0px;
+}
+
+.atIcon{
+  height: 20px;
+  margin-bottom: 4px;
+}
+
+.atText{
+  font-weight: 400;
+  margin-top: 2px;
+  margin-bottom: 0px;
 }
