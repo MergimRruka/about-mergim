@@ -5,6 +5,7 @@ import Education from './components/Education';
 import Showcase from './components/Showcase';
 import ContactMe from './components/ContactMe';
 
+
 function App() {
 
   function scrollTo(id) {
